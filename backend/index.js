@@ -17,6 +17,6 @@ app.use("/api/notes", require("./routes/notes"));
 
 app.listen(port, () => {
   console.log(
-    "iNotebook Backend listening at http://localhost:5000"
+    "iNotebook Backend listening at https://inotebook-backend-cl91.onrender.com"
   );
 });
